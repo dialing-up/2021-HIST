@@ -17,7 +17,7 @@ The anarchists themselves used their own media sources to broadcast their versio
 ‍  
 To this day, newspaper reporting remains riven with biases like these that promote the current power structure in conscious and unconscious ways. Papers state that “the U.S. labor movement faces unique obstacles to gaining favorable news coverage” and that “Newspaper coverage of police-perpetrated homicides may reflect and promote public and official tolerance for police violence”. These biases are reflected in the attitude of the public.
 
-#### Works Cited
+### Works Cited
 
 1. Hirschfield, P. J., & Simon, D. (2010). Legitimating police violence. Theoretical Criminology, 14(2), 155–182. doi:10.1177\\/1362480609351545
 2. Kaplan, R. L. (2008). Yellow Journalism. The International Encyclopedia of Communication. doi:10.1002\\/9781405186407.wbiecy001
