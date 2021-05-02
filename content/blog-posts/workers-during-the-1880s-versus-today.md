@@ -14,10 +14,8 @@ The maltreatment that occurred during the 1880s vastly differs from the working 
 
 Americans have vast opportunities for employment all over the states. We are able to apply for any positions we want, and are not limited to simply working in factories or in coal mines. The main differences, however, that we experience now regarding work versus during the 1880s is the type of work we apply for. Back during the 19th century, people were needed in factories (_'You dirty Boy!', 1800s_ 2018). The main jobs during this time revolved around manual labor and grind. Nowadays, we’re most likely to see a demand for fast food workers and the service industry. Low impact jobs are high since we don’t have the same needs in society for as much manual labor. America has changed since the time of workers riots and strikes. Workers are now in control of their employment and are protected from being overworked and misused.
 
-Works Cited
+#### Works Cited
 
-Smithsonian. (1966). The haymarket riot. Retrieved May 02, 2021, from [https://americanhistory.si.edu/collections/search/object/nmah_1050841](https://americanhistory.si.edu/collections/search/object/nmah_1050841 "https://americanhistory.si.edu/collections/search/object/nmah_1050841")
-
-United States history - the struggles of labor. (n.d.). Retrieved May 02, 2021, from [http://countrystudies.us/united-states/history-82.htm](http://countrystudies.us/united-states/history-82.htm "http://countrystudies.us/united-states/history-82.htm")
-
-'You dirty Boy!', 1800s. (2018). _The Pharmaceutical Journal_. doi:10.1211/pj.2018.20205338
+1. Smithsonian. (1966). The haymarket riot. Retrieved May 02, 2021, from [https://americanhistory.si.edu/collections/search/object/nmah_1050841](https://americanhistory.si.edu/collections/search/object/nmah_1050841 "https://americanhistory.si.edu/collections/search/object/nmah_1050841")
+2. United States history - the struggles of labor. (n.d.). Retrieved May 02, 2021, from [http://countrystudies.us/united-states/history-82.htm](http://countrystudies.us/united-states/history-82.htm "http://countrystudies.us/united-states/history-82.htm")
+3. 'You dirty Boy!', 1800s. (2018). _The Pharmaceutical Journal_. doi:10.1211/pj.2018.20205338
