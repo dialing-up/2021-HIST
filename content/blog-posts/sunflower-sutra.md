@@ -6,7 +6,7 @@ hero: "/images/image.jpeg"
 author: Dileep Reddy
 
 ---
-"The villainous teachings of the Anarchists bore bloody fruit in Chicago tonight, and before daylight at least a dozen stalwart men will have laid down their lives as a tribute to the doctrine of Herr Johann Most” is how the New York Times chose to report the events of the Haymarket affair, with the Chicago Tribune choosing a similar pro-police, anti-protestor tack. This one-sided reporting of an event which has come to be remembered as International Workers’ Day in most of the world, colored the reputation of the event and caused public support for the wrongful death sentence given to eight anarchists.  
+"The villainous teachings of the Anarchists bore bloody fruit in Chicago tonight, and before daylight at least a dozen stalwart men will have laid down their lives as a tribute to the doctrine of Herr Johann Most” is how the New York Times chose to report the events of the Haymarket affair, with the Chicago Tribune choosing a similar pro-police, anti-protestor tack. This one-sided reporting of an event which has come to be remembered as International Workers’ Day in most of the world, colored the reputation of the event and caused public support for the wrongful death sentence given to eight anarchists.
 
 ‍  
 To explain the florid language used, it is necessary to remember that the then most dominant form of journalism was “yellow journalism”, popularized by the media barons William Randolph Hearst and Joseph Pulitzer, whose newspapers used sensationalist and populist rhetoric. The Tribune and the Times were not owned by either baron, but the language is clearly of the era. There was a general agreement between the newspapers that newspaper circulation was the most important factor, not the factual accuracy of the news reported. This meant that all news reported was in the form of a narrative designed to prey on the feeling of of the reader and sell papers. This ensured that no accurate reporting on the Haymarket affair would have been read by the public at the time.  
@@ -19,6 +19,6 @@ To this day, newspaper reporting remains riven with biases like these that promo
 
 #### Bibliography
 
-1. Hirschfield, P. J., & Simon, D. (2010). Legitimating police violence. Theoretical Criminology, 14(2), 155–182. doi:10.1177/1362480609351545
-2. Kaplan, R. L. (2008). Yellow Journalism. The International Encyclopedia of Communication. doi:10.1002/9781405186407.wbiecy001
-3. Carreiro, J. L. (2005). Newspaper Coverage of the U.S. Labor Movement: The Case of Anti-Union Firings 1. Labor Studies Journal, 30(3), 1–20. doi:10.1177/0160449x0503000301
+1. Hirschfield, P. J., & Simon, D. (2010). Legitimating police violence. Theoretical Criminology, 14(2), 155–182. doi:10.1177//1362480609351545
+2. Kaplan, R. L. (2008). Yellow Journalism. The International Encyclopedia of Communication. doi:10.1002//9781405186407.wbiecy001
+3. Carreiro, J. L. (2005). Newspaper Coverage of the U.S. Labor Movement: The Case of Anti-Union Firings 1. Labor Studies Journal, 30(3), 1–20. doi:10.1177//0160449x0503000301
