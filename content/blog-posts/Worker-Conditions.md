@@ -1,6 +1,6 @@
 ---
 title: 'Worker Conditions in the 18th Century '
-date: 2021-04-30T04:00:00+00:00
+date: 2021-05-01T04:00:00+00:00
 type: blog
 hero: "/images/262073593.jpeg"
 author: Ariana Castro
