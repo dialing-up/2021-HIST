@@ -1,5 +1,5 @@
 ---
-title: Sunflower Sutra
+title: The anti-union, anti-anarchist bias of the reporting on the Haymarket Affair
 date: 2021-04-30T04:00:00+00:00
 type: blog
 hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
