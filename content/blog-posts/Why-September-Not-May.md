@@ -3,7 +3,7 @@ title: Why September Not May 1st
 date: 2021-04-28T04:00:00+00:00
 type: blog
 author: Matthew Bartell
-hero: "/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
+hero: "/images/labor_day_timetoast_com.jpeg"
 
 ---
 Around the world, a Labour day is celebrated for the commemoration of laborers and the working class rights to an eight-hour workday stemming from likes of the Haymarket riots. The day has many names such as International Workers’ Day, May Day, and many others. The holiday was originally on May 1st to pay tribute to the labor movement that significantly revolutionized the workplace. With the Haymarket affair having occurred on May 4th, 1886, a term called Mayday became synonymous with the event. Officially declared in 1904 by the Sixth Conference of the Second International, the conference urged, “all Social Democratic Party organizations and trade unions of all countries to demonstrate energetically on the First of May for the legal establishment of the eight-hour day, for the class demands of the proletariat, and for universal peace.” As the coordinated Strike was planned for May 1st, the commemoration was logically thought to be on the same day.
