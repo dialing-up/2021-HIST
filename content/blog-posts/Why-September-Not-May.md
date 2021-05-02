@@ -1,6 +1,6 @@
 ---
 title: Why September Not May 1st
-date: 2021-04-30T04:00:00+00:00
+date: 2021-04-28T04:00:00+00:00
 type: blog
 author: Matthew Bartell
 hero: "/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
