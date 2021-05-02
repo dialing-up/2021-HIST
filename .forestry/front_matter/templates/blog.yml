@@ -31,4 +31,5 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/haymarket-riot-investigation.md
 - content/blog-posts/workers-during-the-1880s-versus-today.md
