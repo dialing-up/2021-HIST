@@ -16,3 +16,9 @@ The pro-police and anti-anarchist bias was because of the ownership of the two n
 The anarchists themselves used their own media sources to broadcast their version of events and their predicament to their readers. While not contemporaneously popular, their version of events has come to be remembered, as an injustice that a biased government and justice system looking for a scapegoat inflicted upon them. But that could not prevent their wrongful convictions and public denunciations, as the anarchist and labor press could not compete with the commercial press in the popularity stakes.  
 ‍  
 To this day, newspaper reporting remains riven with biases like these that promote the current power structure in conscious and unconscious ways. Papers state that “the U.S. labor movement faces unique obstacles to gaining favorable news coverage” and that “Newspaper coverage of police-perpetrated homicides may reflect and promote public and official tolerance for police violence”. These biases are reflected in the attitude of the public.
+
+#### Bibliography
+
+1. Hirschfield, P. J., & Simon, D. (2010). Legitimating police violence. Theoretical Criminology, 14(2), 155–182. doi:10.1177/1362480609351545
+2. Kaplan, R. L. (2008). Yellow Journalism. The International Encyclopedia of Communication. doi:10.1002/9781405186407.wbiecy001
+3. Carreiro, J. L. (2005). Newspaper Coverage of the U.S. Labor Movement: The Case of Anti-Union Firings 1. Labor Studies Journal, 30(3), 1–20. doi:10.1177/0160449x0503000301
