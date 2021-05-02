@@ -1,6 +1,6 @@
 ---
 title: The anti-union, anti-anarchist bias of the reporting on the Haymarket Affair
-date: 2021-04-30T04:00:00+00:00
+date: 2021-04-30T04:00:00.000+00:00
 type: blog
 hero: "/images/image.jpeg"
 author: Dileep Reddy
@@ -17,8 +17,8 @@ The anarchists themselves used their own media sources to broadcast their versio
 ‍  
 To this day, newspaper reporting remains riven with biases like these that promote the current power structure in conscious and unconscious ways. Papers state that “the U.S. labor movement faces unique obstacles to gaining favorable news coverage” and that “Newspaper coverage of police-perpetrated homicides may reflect and promote public and official tolerance for police violence”. These biases are reflected in the attitude of the public.
 
-#### Bibliography
+#### Works Cited
 
-1. Hirschfield, P. J., & Simon, D. (2010). Legitimating police violence. Theoretical Criminology, 14(2), 155–182. doi:10.1177//1362480609351545
-2. Kaplan, R. L. (2008). Yellow Journalism. The International Encyclopedia of Communication. doi:10.1002//9781405186407.wbiecy001
-3. Carreiro, J. L. (2005). Newspaper Coverage of the U.S. Labor Movement: The Case of Anti-Union Firings 1. Labor Studies Journal, 30(3), 1–20. doi:10.1177//0160449x0503000301
+1. Hirschfield, P. J., & Simon, D. (2010). Legitimating police violence. Theoretical Criminology, 14(2), 155–182. doi:10.1177\\/1362480609351545
+2. Kaplan, R. L. (2008). Yellow Journalism. The International Encyclopedia of Communication. doi:10.1002\\/9781405186407.wbiecy001
+3. Carreiro, J. L. (2005). Newspaper Coverage of the U.S. Labor Movement: The Case of Anti-Union Firings 1. Labor Studies Journal, 30(3), 1–20. doi:10.1177\\/0160449x0503000301
