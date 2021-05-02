@@ -16,7 +16,7 @@ In 1869, one of the most important labor unions was founded by Uriah Smith Steph
 
 On August 20th, 1886, the National Labor Union called on congress due to the poor quality of worker conditions and vast labor hours to minimize the hourly work per day to eight hours. Sadly, the National Labor Union failed; however, the Knights of Labor took the flaming torch, discouraging strikes and promoting change in society. However, a series of violent strikes by railroad workers later hurting the reputation of the organization. In May of the same year, a fight was unleashed by the striking workers and strike backers at the McCormick Harvesting Machine Company in Haymarket, Illinois. During the incident, two union men were shot by police, and later an explosion killing seven police officers.
 
-Works Cited
+#### Works Cited
 
 1. Britannica, The Editors of Encyclopedia. "Haymarket Affair." Encyclopedia Britannica, 27 Apr.2021, [https://www.britannica.com/event/Haymarket-Affair.](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.") Accessed 30 April 2021.
 2. Britannica, The Editors of Encyclopedia. "Knights of Labor.” Encyclopedia Britannica, 25 Sep.2019, [https://www.britannica.com/topic/Knights-of-Labor.,](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.") Accessed 30 April 2021.
