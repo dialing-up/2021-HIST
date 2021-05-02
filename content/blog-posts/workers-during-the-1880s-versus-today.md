@@ -1,7 +1,6 @@
 +++
 author = "Arianna Bird"
 date = 2021-04-27T04:00:00Z
-draft = true
 hero = "/images/workcon.jpg"
 title = "Workers During the 1880s Versus Today"
 type = "blog"
