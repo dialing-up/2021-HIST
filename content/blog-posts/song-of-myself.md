@@ -1,34 +1,25 @@
 ---
-title: Song of Myself
+title: 'Worker Conditions in the 18th Century '
 date: 2019-07-11T19:17:43.000+00:00
 type: blog
 hero: "/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
-author: Walt Whitman
+author: ''
 
 ---
-I have heard what the talkers were talking, the talk of the  
-beginning and the end
+During the Eighteenth Century in the United States, the economy began with an overwhelming increase in the growth of industrialism. The resources were abundant, an expansion in the labor force, and entrepreneurship allowed mass production for large-scale products and manufactured goods. Yet, for numerous citizens, industrialization was a form of prosperity. On the contrary, the working class, specifically factory workers, did not benefit during the process. During that century, the standard of living for workers had a steady increase; however, by the late 18th hundreds, workers were struggling in order to make ends meet. “\[The\] annual income of at least $600 to live comfortably, but the average worker made between $400 and $500 per year.”( “Worker Conditions In The Factories (Issue)”)
 
-But I do not talk of the beginning or the end. There was never any more inception than there is now, Nor any more youth or age than there is now, And will never be any more perfection than there is now,  
-Nor any more heaven or hell than there is now.
+Factory workers of that time overlooked prolonged hours, had poor working conditions, and in their job’s instability. During that time there were a series of recessions and depressions starting from 1836 up until 1891, many workers were laid off, leaving them with a scarcity of new jobs or a cut on their salary payments. New employees, due to changes in positions, found discipline and rules different from the former employment. The workload in Factories was monotonous because they performed the tasks repeatedly. Working hours averaged from at least ten hours per day, six days a week for most workers. (“Working Conditions in The Factories (Issue)”) Men and women with backgrounds in agriculture and in artisanal crafting found Factory working very challenging due to the strict regulation and discipline.
 
-Urge and urge and urge, Always the procreant urge of the world.  
-Out of the dimness opposite equals advance, always substance and  
-increase, Always a knit of identity, always distinction, always a breed of life. To elaborate is no avail, learn'd and unlearn'd feel that it is  
-so.
+Factory conditions were deplorable and shameful. Due to the lack of government regulation, it leads factory working unsafe and in occasions unhealthy. It was rare for an employer to pay if a worker were ever to get hurt or even to the extremity of being killed for doing their job. “By the 1900 industrial accidents killed thirty-five thousand workers each year...” (“Worker Conditions in The Factories (Issue)”) Workers began to respond to the poor conditions in factories and low wages by intentionally decreasing their production, braking machines, and quitting jobs. Other workers lead by Labor unions joined the protest.
 
-Sure as the most certain sure, plumb in the uprights, well entretied, braced in the beams, Stout as a horse, affectionate, haughty, electrical, I and this mystery here we stand.
+In 1869, one of the most important labor unions was founded by Uriah Smith Stephens. The Knights of Labor or formally known as the Noble Order of the Knights of Labor, was an organization in which intentions were meant to protect members from employer retaliations. Its belief system was of unity with interest groups that compromised of shopkeepers, farmers, and laborers. In 1879, the organization elected Terence V. Powderly. After the railway strike of 1877, Membership in the Knights grew exponentially, with its peak of 700,000 members in 1886. During the peak, “the Knights were the dominant labor organization in the United States.” (“Knights of Labor”)
 
-Clear and sweet is my soul, and clear and sweet is all that is not my soul.
+On August 20th, 1886, the National Labor Union called on congress due to the poor quality of worker conditions and vast labor hours to minimize the hourly work per day to eight hours. Sadly, the National Labor Union failed; however, the Knights of Labor took the flaming torch, discouraging strikes and promoting change in society. However, a series of violent strikes by railroad workers later hurting the reputation of the organization. In May of the same year, a fight was unleashed by the striking workers and strike backers at the McCormick Harvesting Machine Company in Haymarket, Illinois. During the incident, two union men were shot by police, and later an explosion killing seven police officers.
 
-![](/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
+Works Cited
 
-Lack one lacks both, and the unseen is proved by the seen,  
-Till that becomes unseen and receives proof in its turn.
+Britannica, The Editors of Encyclopedia. "Haymarket Affair." Encyclopedia Britannica, 27 Apr.2021, [https://www.britannica.com/event/Haymarket-Affair.](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.") Accessed 30 April 2021.
 
-Showing the best and dividing it from the worst age vexes age,  
-Knowing the perfect fitness and equanimity of things, while they discuss I am silent, and go bathe and admire myself.
+Britannica, The Editors of Encyclopedia. "Knights of Labor.” Encyclopedia Britannica, 25 Sep.2019, [https://www.britannica.com/topic/Knights-of-Labor.,](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.") Accessed 30 April 2021.
 
-Welcome is every organ and attribute of me, and of any man hearty and clean, Not an inch nor a particle of an inch is vile, and none shall be less familiar than the rest.
-
-I am satisfied—I see, dance, laugh, sing; As the hugging and loving bed-fellow sleeps at my side through the night, and withdraws at the peep of the day with stealthy tread. Leaving me baskets cover'd with white towels swelling the house with their plenty, Shall I postpone my acceptation and realization and scream at my eyes, That they turn from gazing after and down the road, And forthwith cipher and show me to a cent, Exactly the value of one and exactly the value of two, and which is ahead?
+"Working Conditions in Factories (Issue)." Gale Encyclopedia of U.S. Economic History. _Encyclopedia.com._ 15 Apr. 2021 [https://www.encyclopedia.com](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.").
