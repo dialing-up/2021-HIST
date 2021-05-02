@@ -11,6 +11,9 @@ contact_info:
 type: ''
 
 ---
-## This is a series of articles chronicling the Haymarket riot, as a project
+#### 2110 HIST HONORS
 
-## Made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
+##   
+This is a series of articles chronicling the Haymarket riot, its aftermath and consequences as a project.
+
+### Made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
