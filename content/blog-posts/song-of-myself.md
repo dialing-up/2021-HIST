@@ -1,9 +1,9 @@
 ---
 title: 'Worker Conditions in the 18th Century '
-date: 2019-07-11T19:17:43.000+00:00
+date: 2021-04-30T04:00:00+00:00
 type: blog
-hero: "/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
-author: ''
+hero: "/images/262073593.jpeg"
+author: Ariana Castro
 
 ---
 During the Eighteenth Century in the United States, the economy began with an overwhelming increase in the growth of industrialism. The resources were abundant, an expansion in the labor force, and entrepreneurship allowed mass production for large-scale products and manufactured goods. Yet, for numerous citizens, industrialization was a form of prosperity. On the contrary, the working class, specifically factory workers, did not benefit during the process. During that century, the standard of living for workers had a steady increase; however, by the late 18th hundreds, workers were struggling in order to make ends meet. “\[The\] annual income of at least $600 to live comfortably, but the average worker made between $400 and $500 per year.”( “Worker Conditions In The Factories (Issue)”)
@@ -18,8 +18,6 @@ On August 20th, 1886, the National Labor Union called on congress due to the poo
 
 Works Cited
 
-Britannica, The Editors of Encyclopedia. "Haymarket Affair." Encyclopedia Britannica, 27 Apr.2021, [https://www.britannica.com/event/Haymarket-Affair.](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.") Accessed 30 April 2021.
-
-Britannica, The Editors of Encyclopedia. "Knights of Labor.” Encyclopedia Britannica, 25 Sep.2019, [https://www.britannica.com/topic/Knights-of-Labor.,](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.") Accessed 30 April 2021.
-
-"Working Conditions in Factories (Issue)." Gale Encyclopedia of U.S. Economic History. _Encyclopedia.com._ 15 Apr. 2021 [https://www.encyclopedia.com](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.").
+1. Britannica, The Editors of Encyclopedia. "Haymarket Affair." Encyclopedia Britannica, 27 Apr.2021, [https://www.britannica.com/event/Haymarket-Affair.](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.") Accessed 30 April 2021.
+2. Britannica, The Editors of Encyclopedia. "Knights of Labor.” Encyclopedia Britannica, 25 Sep.2019, [https://www.britannica.com/topic/Knights-of-Labor.,](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.") Accessed 30 April 2021.
+3. "Working Conditions in Factories (Issue)." Gale Encyclopedia of U.S. Economic History. _Encyclopedia.com._ 15 Apr. 2021 [https://www.encyclopedia.com](https://www.britannica.com/event/Haymarket-Affair. "https://www.britannica.com/event/Haymarket-Affair.").
