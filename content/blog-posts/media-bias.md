@@ -1,6 +1,6 @@
 ---
 title: The anti-union, anti-anarchist bias of the reporting on the Haymarket Affair
-date: 2021-04-30T04:00:00.000+00:00
+date: 2021-04-29T04:00:00+00:00
 type: blog
 hero: "/images/image.jpeg"
 author: Dileep Reddy
