@@ -13,7 +13,8 @@ type: ''
 ---
 #### 2110 HIST HONORS
 
-##   
-This is a series of articles chronicling the Haymarket riot, its aftermath and consequences as a project.
+## 
+
+This is a series of articles chronicling the Haymarket riot, its aftermath and consequences as a project. It examines the events and conditions that led up to the riot and the gains made by workers as a result of activism galvanized by the events that occured in Chicago on May 4, 1886
 
 ### Made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
