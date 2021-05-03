@@ -1,6 +1,6 @@
 +++
 author = "Kishika Patel"
-date = 2021-04-29T04:00:00Z
+date = 2021-04-30T04:00:00Z
 hero = "/images/haymarketriot-harpers.jpeg"
 title = "Haymarket Riot: Investigation"
 type = "blog"
